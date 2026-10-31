@@ -1,0 +1,32 @@
+{
+  "resellers": [
+    {
+      "name": "Elegant",
+      "active": true,
+      "keys": [
+        "ELGN-F8TI-C7SV-ZL39",
+        "ELGN-R9WN-XM4V-UNKK",
+        "ELGN-6EAR-PL46-9ZQA",
+        "ELGN-WRKH-DXCP-049A",
+        "ELGN-V3TY-F6V4-V1FF",
+        "ELGN-3RAR-88SI-AIHH",
+        "ELGN-UUYB-L8K2-YLBA",
+        "ELGN-5R3Q-EAFG-BLRM",
+        "ELGN-FS09-6JZN-A2HW",
+        "ELGN-WG3B-ME3Z-LNAP",
+        "ELGN-Y0H6-386R-I0Y9",
+        "ELGN-X8I4-UML7-XI3W",
+        "ELGN-GZK1-KO87-CQ7I",
+        "ELGN-DJH2-6Q48-16KT",
+        "ELGN-GTG0-L8C5-K7S6"
+      ]
+    },
+    {
+      "name": "kernel",
+      "active": true,
+      "keys": [
+          "kernelomg-C8F3-WEF8-AFB2"
+      ]
+    }
+  ]
+}

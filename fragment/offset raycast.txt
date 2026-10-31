@@ -1,0 +1,48 @@
+Unified Engine Offset Dumper
+  --------------------------------------------
+  [+] Roblox pid 12284
+  [+] Base Address: 0x7FF738690000
+  [+] Build ID: e624817a54ed5f5d
+
+  ============================================
+   1. DUMPING RAYCAST OFFSETS
+  ============================================
+  [+] Found WorldRoot method table at 0x7FF73F0A3900 (mode=cm, 38 methods)
+  [+] Raycast is method index 26
+  namespace Raycast {
+      inline constexpr uintptr_t RaycastBoundDesc = 0x8197D90;
+      inline constexpr uintptr_t RaycastBoundFn   = 0x80;
+  }
+
+  ============================================
+   2. DUMPING FASTCLUSTER OFFSETS
+  ============================================
+  namespace FastClusterEntity {
+      inline constexpr uintptr_t VTableRva               = 0x6C19BE8;
+      inline constexpr uintptr_t ContextPtr              = 0x8;
+      inline constexpr uintptr_t RenderQueueId           = 0x10;
+      inline constexpr uintptr_t AlphaByte               = 0x14;
+      inline constexpr uintptr_t MaterialPtr             = 0x20;
+      inline constexpr uintptr_t DecalMaterialPtr        = 0x48;
+      inline constexpr uintptr_t TechniqueArrayPtr       = 0x70;
+      inline constexpr uintptr_t PrimitiveIndexArrayPtr  = 0x80;
+      inline constexpr uintptr_t BBoxMinX                = 0x98;
+      inline constexpr uintptr_t BBoxMinY                = 0x9C;
+      inline constexpr uintptr_t BBoxMinZ                = 0xA0;
+      inline constexpr uintptr_t BBoxMaxX                = 0xA4;
+      inline constexpr uintptr_t BBoxMaxY                = 0xA8;
+      inline constexpr uintptr_t BBoxMaxZ                = 0xAC;
+  }
+  namespace TechniqueArray {
+      inline constexpr uintptr_t BeginOffset             = 0x0;
+      inline constexpr uintptr_t EndOffset               = 0x8;
+      inline constexpr uintptr_t EntryStride             = 136;
+  }
+  namespace MaterialLayer {
+      inline constexpr uintptr_t Stride                  = 136;
+      inline constexpr uintptr_t FillModeByte            = 0x11;
+      inline constexpr uintptr_t MatFlags                = 0x18;
+      inline constexpr uintptr_t Param                   = 0x1C;
+      inline constexpr uintptr_t Flags2                  = 0x20;
+      inline constexpr uintptr_t ColorData               = 0x24;
+  }

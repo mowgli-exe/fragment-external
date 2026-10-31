@@ -1,0 +1,58 @@
+﻿A:\Software\VisualStudio\Product\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+A:\Software\VisualStudio\Product\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Assembling source\memory\luck.asm...
+  auth.cpp
+  entry_point.cpp
+  button.cpp
+  checkbox.cpp
+  child.cpp
+  colorpicker.cpp
+  dropdown.cpp
+  input.cpp
+  keybind.cpp
+  slider.cpp
+  text.cpp
+  main.cpp
+  memory.cpp
+  engine.cpp
+  instance.cpp
+  mesh_part.cpp
+  console.cpp
+  logger.cpp
+  window_utils.cpp
+C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\source\memory\memory.cpp(138,108): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+  imgui_freetype.cpp
+  logo.c
+  instance.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 24213 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+freetype.lib(ftinit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftinit.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftbase.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftbase.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftsynth.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftsynth.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(autofit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(autofit.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(truetype.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(truetype.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(type1.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(type1.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(cff.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(cff.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(type1cid.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(type1cid.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(pfr.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(pfr.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(type42.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(type42.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(winfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(winfnt.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(pcf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(pcf.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(bdf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(bdf.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(psaux.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(psaux.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(psmodule.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(psmodule.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(pshinter.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(pshinter.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(sfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(sfnt.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(smooth.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(smooth.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(raster.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(raster.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(sdf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(sdf.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(svg.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(svg.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftsystem.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftbitmap.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftgzip.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftlzw.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftdebug.obj)' or at 'C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\freetype.pdb'; linking object as if no debug info
+  fragment.vcxproj -> C:\Users\serval\Downloads\stuff\Kiro\__archive_old_projects\fragment\fragment\build\fragment.exe
